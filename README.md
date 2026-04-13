@@ -74,6 +74,7 @@ It simulates a real-world data analyst workflow where data is retrieved programm
 
 ---
 
+```
 
 ## 📁 Project Structure
 
@@ -82,6 +83,8 @@ country-data-analysis/
 ├── country_analysis.ipynb
 ├── screenshot.png
 ├── README.md
+
+```
 
 ---
 
