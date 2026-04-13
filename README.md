@@ -65,10 +65,12 @@ It simulates a real-world data analyst workflow where data is retrieved programm
 * 🌏 Region with Highest Population: **Asia**
 * 🌍 Largest Country by Area: **Russia**
 
+---
+
 
 ## 📸 Output Screenshot
 
-![Project Output](screenshot.png)
+![Project Output](Screenshot.png)
 
 
 
@@ -84,7 +86,6 @@ country-data-analysis/
 
 ```
 
----
 
 ## ▶️ How to Run
 
