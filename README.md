@@ -1,11 +1,10 @@
 # 🌍 Country Data Analysis using REST API
 
-##  Project Overview
+## 📌 Project Overview
 
-This project demonstrates how to fetch real-time # 🌍 Country Data Analysis using REST API (Python + Pandas)
+This project demonstrates how to fetch real-time country data from a public REST API and analyze it using Python (Pandas).
 
 It simulates a real-world data analyst workflow where data is retrieved programmatically, cleaned, and analyzed to extract meaningful insights.
-
 ---
 
 ## 🎯 Objectives
@@ -66,13 +65,12 @@ It simulates a real-world data analyst workflow where data is retrieved programm
 * 🌏 Region with Highest Population: **Asia**
 * 🌍 Largest Country by Area: **Russia**
 
----
 
 ## 📸 Output Screenshot
 
 ![Project Output](screenshot.png)
 
----
+
 
 ```
 
