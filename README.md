@@ -12,7 +12,7 @@ It simulates a real-world data analyst workflow where data is retrieved programm
 
 * Fetch live data from the REST API
 * Handle JSON responses
-* Convert raw data into structured format
+* Convert raw data into a structured format
 * Perform data analysis using Pandas
 * Extract meaningful insights
 
